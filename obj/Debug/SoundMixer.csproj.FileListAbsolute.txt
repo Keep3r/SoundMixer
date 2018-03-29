@@ -1,0 +1,12 @@
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\bin\Debug\SoundMixer.exe.config
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\bin\Debug\SoundMixer.exe
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\bin\Debug\SoundMixer.pdb
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\bin\Debug\NAudio.dll
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\bin\Debug\NAudio.xml
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.csprojResolveAssemblyReference.cache
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.F_SoundMixer.resources
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.Properties.Resources.resources
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.csproj.GenerateResource.Cache
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.exe
+C:\Users\Artur\source\repos\SoundMixer\SoundMixer\obj\Debug\SoundMixer.pdb
